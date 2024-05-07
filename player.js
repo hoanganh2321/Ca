@@ -126,12 +126,12 @@ function initializePlayer(client) {
                 setLoop(player, 'queue');
                 const loopEmbed = new EmbedBuilder()
             .setAuthor({
-                    name: 'Danh Sách Chờ!',
+                    name: 'Lặp Lại',
                     iconURL: 'https://cdn.discordapp.com/attachments/1156866389819281418/1157318080670728283/7905-repeat.gif?ex=66383bb4&is=6636ea34&hm=65f37cf88245f1c09285b547fda57b82828b3bbcda855e184f446d6ff43756b3&', 
                     url: 'https://discord.gg/xQF9f9yUEM'
                 })
             .setColor("#00FF00")
-            .setTitle("**Danh Sách Chờ is Activated!**")
+            .setTitle("**Lặp Lại is Activated!**")
          
 
         await channel.send({ embeds: [loopEmbed] });
@@ -168,7 +168,7 @@ const pageSize = 10;
 
 const queueMessage = queueNames.length > 0 ?
     queueNames.map((song, index) => `${index + 1}. ${song}`).join('\n') :
-    "The queue is empty.";
+    "Danh sách chờ trống.";
 
 
 const pages = [];
@@ -182,7 +182,7 @@ for (let i = 0; i < pages.length; i++) {
 
     const queueEmbed = new EmbedBuilder()
         .setColor("#0099ff")
-        .setTitle(`Current Queue (Page ${i + 1}/${pages.length})`)
+        .setTitle(`Danh Sách Chờ Hiện Có Những Bài Sau (Page ${i + 1}/${pages.length})`)
         .setDescription(numberedSongs);
 
     await channel.send({ embeds: [queueEmbed] });
