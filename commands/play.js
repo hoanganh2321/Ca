@@ -84,7 +84,7 @@ const embeds = [
             iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1236794583732457473/7828-verify-ak.gif?ex=66394e37&is=6637fcb7&hm=923d3f3b300606a2ae4ceb7bae980fd533a4c5ee2cf73111569a892a595f1f69&', 
             url: 'https://discord.gg/xQF9f9yUEM'
         })
-        .setDescription('❗ **Yêu cầu của bạn đã được xử lý thành công.**\n➡❗** Vui lòng sử dụng các nút để kiểm soát hàng đợi**'),
+        .setDescription('❗ **Yêu cầu của bạn đã được xử lý thành công.**\n❗** Vui lòng sử dụng các nút để kiểm soát hàng đợi**'),
 
  
     new EmbedBuilder()
