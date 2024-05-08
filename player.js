@@ -68,7 +68,7 @@ function initializePlayer(client) {
         .setImage(`https://cdn.discordapp.com/attachments/1004341381784944703/1165201249331855380/RainbowLine.gif?ex=663939fa&is=6637e87a&hm=e02431de164b901e07b55d8f8898ca5b1b2832ad11985cecc3aa229a7598d610&`)
         .setThumbnail(track.info.thumbnail)
         .setTimestamp()
-        .setFooter({ text: 'Make by Kaioshin Dev🔥 | https://discord.gg/2zB48CedHG '}); 
+        .setFooter({ text: 'Make by Kaioshin Dev🔥 | discord.gg/2zB48CedHG '}); 
 
 
 
