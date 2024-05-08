@@ -127,7 +127,7 @@ await interaction.followUp({ embeds: [embeds[randomIndex]] });
 
 module.exports = {
     name: "play",
-    description: "Add options too",
+    description: "Tên Bài Hát Hoặc Link ",
     permissions: "0x0000000000000800",
     options: [{
         name: 'name',
