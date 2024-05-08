@@ -74,7 +74,7 @@ function initializePlayer(client) {
 
         const queueLoopButton = new ButtonBuilder()
             .setCustomId("loopQueue")
-            .setLabel("Danh Sách Chờ")
+            .setLabel("Lặp Lại")
             .setStyle(ButtonStyle.Primary);
 
         const disableLoopButton = new ButtonBuilder()
