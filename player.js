@@ -61,7 +61,7 @@ function initializePlayer(client) {
         .setAuthor({
             name: 'Đang phát',
             iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1236664581364125787/music-play.gif?ex=6638d524&is=663783a4&hm=5179f7d8fcd18edc1f7d0291bea486b1f9ce69f19df8a96303b75505e18baa3a&', 
-            url: 'https://discord.gg/xQF9f9yUEM'
+            url: 'https://discord.gg/2zB48CedHG'
         })
         .setDescription(`🎹 **Tên Bài Hát:** [${track.info.title}](${track.info.uri})\n👑 **Nghệ Sĩ:** ${track.info.author}\n🎼 **Nền Tảng :** Youtube , Spotify `)
 
@@ -128,7 +128,7 @@ function initializePlayer(client) {
             .setAuthor({
                     name: 'Lặp Lại',
                     iconURL: 'https://cdn.discordapp.com/attachments/1156866389819281418/1157318080670728283/7905-repeat.gif?ex=66383bb4&is=6636ea34&hm=65f37cf88245f1c09285b547fda57b82828b3bbcda855e184f446d6ff43756b3&', 
-                    url: 'https://discord.gg/xQF9f9yUEM'
+                    url: 'https://discord.gg/2zB48CedHG'
                 })
             .setColor("#00FF00")
             .setTitle("**Lặp Lại is Activated!**")
@@ -142,7 +142,7 @@ function initializePlayer(client) {
                 .setAuthor({
                   name: 'Bỏ Qua Bài Khác',
                   iconURL: 'https://cdn.discordapp.com/attachments/1156866389819281418/1157269773118357604/giphy.gif?ex=6517fef6&is=6516ad76&hm=f106480f7d017a07f75d543cf545bbea01e9cf53ebd42020bd3b90a14004398e&',
-                  url: 'https://discord.gg/FUEHs7RCqz'
+                  url: 'https://discord.gg/2zB48CedHG'
                 })
             .setTitle("**Player will play the next song!**")
             .setTimestamp();
@@ -156,7 +156,7 @@ function initializePlayer(client) {
                 .setAuthor({
                     name: 'Tắt Lặp Lại',
                     iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1230836684774576168/7762-verified-blue.gif?ex=6638b97d&is=663767fd&hm=021725868cbbc66f35d2b980585489f93e9fd366aa57640732dc49e7da9a80ee&', 
-                    url: 'https://discord.gg/xQF9f9yUEM'
+                    url: 'https://discord.gg/2zB48CedHG'
                 })
                 .setDescription('**Lặp lại is Disabled !**');
                   
@@ -195,7 +195,7 @@ for (let i = 0; i < pages.length; i++) {
                 .setAuthor({
                     name: 'Xóa Danh Sách Chờ',
                     iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1230836684774576168/7762-verified-blue.gif?ex=6638b97d&is=663767fd&hm=021725868cbbc66f35d2b980585489f93e9fd366aa57640732dc49e7da9a80ee&', 
-                    url: 'https://discord.gg/xQF9f9yUEM'
+                    url: 'https://discord.gg/2zB48CedHG'
                 })
                 .setDescription('**Xóa Danh Sách Chờ sucessfully!**');
                
