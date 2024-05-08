@@ -81,7 +81,7 @@ const embeds = [
         .setColor('#4d9fd6')
         .setAuthor({
             name: 'Yêu cầu cập nhật!',
-            iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1230836684774576168/7762-verified-blue.gif?ex=663cadfd&is=663b5c7d&hm=f6b12171bc750db28036e82fe746a50622d138f99bc48a3cfb0390a5d32ca52c&', 
+            iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1236794583732457473/7828-verify-ak.gif?ex=66394e37&is=6637fcb7&hm=923d3f3b300606a2ae4ceb7bae980fd533a4c5ee2cf73111569a892a595f1f69&', 
             url: 'https://discord.gg/XBHZUwqAzK'
         })
         .setDescription('❗ **Yêu cầu của bạn đã được xử lý thành công.**\n❗** Vui lòng sử dụng các nút để kiểm soát hàng đợi**'),
@@ -91,7 +91,7 @@ const embeds = [
     .setColor('#ffea00')
     .setAuthor({
         name: 'Yêu cầu cập nhật!',
-        iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1230836684774576168/7762-verified-blue.gif?ex=663cadfd&is=663b5c7d&hm=f6b12171bc750db28036e82fe746a50622d138f99bc48a3cfb0390a5d32ca52c&', 
+        iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1236794583732457473/7828-verify-ak.gif?ex=66394e37&is=6637fcb7&hm=923d3f3b300606a2ae4ceb7bae980fd533a4c5ee2cf73111569a892a595f1f69&', 
         url: 'https://discord.gg/XBHZUwqAzK'
     })
     .setDescription('❗ **Yêu cầu của bạn đã được xử lý thành công.**\n❗** Vui lòng sử dụng các nút để kiểm soát hàng đợi**'),
@@ -101,7 +101,7 @@ const embeds = [
     .setColor('#FF0000')
     .setAuthor({
         name: 'Yêu cầu cập nhật!',
-        iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1230836684774576168/7762-verified-blue.gif?ex=663cadfd&is=663b5c7d&hm=f6b12171bc750db28036e82fe746a50622d138f99bc48a3cfb0390a5d32ca52c&', 
+        iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1236794583732457473/7828-verify-ak.gif?ex=66394e37&is=6637fcb7&hm=923d3f3b300606a2ae4ceb7bae980fd533a4c5ee2cf73111569a892a595f1f69&', 
         url: 'https://discord.gg/XBHZUwqAzK'
     })
     .setDescription('❗ **Yêu cầu của bạn đã được xử lý thành công.**\n❗** Vui lòng sử dụng các nút để kiểm soát hàng đợi**')
